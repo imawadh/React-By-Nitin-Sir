@@ -2,9 +2,8 @@
   "name": "react-by-nitin-sir",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,8 @@
   },
   "homepage": "https://github.com/imawadh/React-By-Nitin-Sir#readme",
   "dependencies": {
-    "parcel": "^2.15.4"
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }

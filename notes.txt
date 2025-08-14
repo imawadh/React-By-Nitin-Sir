@@ -1,0 +1,20 @@
+
+What is the diffrenece between npm and npx ? 
+    npm : node module manager 
+            node_modules[library files got saved]
+
+    npx : node package executables 
+            no installation, directly run by taking the help of registery
+                [Temporary purpose]
+
+                    npx parcel index.html
+
+
+Role of Parcel ::: 
+    a. Dev Build 
+    b. Local server 
+    c. HMR 
+
+    It creates a server Environment to deploy our appliaction ...
+    It uses Minifilaction mechanism to render the production code 
+    It uses file watching algorithm to generate faster response on UI 

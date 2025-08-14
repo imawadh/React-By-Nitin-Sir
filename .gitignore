@@ -1,2 +1,6 @@
 # Ignore Node Module
 node_modules
+# dist
+dist
+#parcel-cache
+.parcel-cache
