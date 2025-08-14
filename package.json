@@ -1,0 +1,23 @@
+{
+  "name": "react-by-nitin-sir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imawadh/React-By-Nitin-Sir.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imawadh/React-By-Nitin-Sir/issues"
+  },
+  "homepage": "https://github.com/imawadh/React-By-Nitin-Sir#readme",
+  "dependencies": {
+    "parcel": "^2.15.4"
+  }
+}
